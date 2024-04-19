@@ -11,6 +11,8 @@
     const gramatina = v.get("gramatina");
     const atvieglojumi = v.get("atvieglojumi");
     const minimums = v.get("minimums");
+
+    results = bruto; // TODO: Add formula
   }
 
   const calculatorInputs: Array<CalculatorInputT> = [
